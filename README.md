@@ -4,10 +4,10 @@
 This project exmamines the findindings of _Assignment 11.1: What drives the price of a car?_: for the Professional Certificate in Machine Learning and Artificial Intelligence from UC Berkely.  The bulk of the work is in the prompt_II.ipynb
 
 ## Approach
--Examine the data
--Prune the data
--Fit a linear regression model
--Examnine the coeficients to determine which atributes are important.
+- Examine the data
+- Prune and correct the data as necessary
+- Fit a linear regression model to deterimine which coefficients are important
+- Use these coeficients to determine what drives the sale price of a car
 
 ## Findings
 Car sales price drivers
